@@ -1,0 +1,52 @@
+ .header{
+    background-color:black ;
+     justify-content: space-between;
+     color : white;
+     text-align: center;
+     margin-top : 20px
+   } 
+   h1{
+     color : #61DAFB;
+     text-align : center;
+     margin-top : 10px  
+   }
+   
+
+   .oneh{
+     margin-top : 60px;
+     text-align : left;
+     color: #808080;
+   }
+
+   .onep{
+    text-align : left;
+    color: black;
+    /* display : flex; */
+   }
+
+   .twoh{
+    margin-top : 60px;
+    text-align : left;
+    color : #808080;
+
+   }
+
+   .twop{
+     text-align : left;
+     color : black;
+   }
+ 
+   .trh{
+     margin-top : 60px;
+     text-align : left;
+     color : #808080;
+   }
+
+   .trp{
+     text-align : left;
+   }
+
+   .aboutH{
+     color : grey;
+     text-align : left;
+   }
